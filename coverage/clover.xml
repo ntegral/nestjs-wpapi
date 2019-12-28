@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1577511084535" clover="3.2.0">
-  <project timestamp="1577511084535" name="All files">
+<coverage generated="1577512551020" clover="3.2.0">
+  <project timestamp="1577512551020" name="All files">
     <metrics statements="41" coveredstatements="40" conditionals="10" coveredconditionals="9" methods="12" coveredmethods="11" elements="63" coveredelements="60" complexity="0" loc="41" ncloc="41" packages="3" files="8" classes="8"/>
     <package name="lib">
       <metrics statements="24" coveredstatements="24" conditionals="10" coveredconditionals="9" methods="9" coveredmethods="9"/>
@@ -8,31 +8,31 @@
         <metrics statements="19" coveredstatements="19" conditionals="10" coveredconditionals="9" methods="7" coveredmethods="7"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="9" count="1" type="stmt"/>
-        <line num="11" count="2" type="stmt"/>
-        <line num="13" count="2" type="stmt"/>
-        <line num="21" count="3" type="stmt"/>
-        <line num="24" count="2" type="stmt"/>
-        <line num="27" count="3" type="stmt"/>
-        <line num="38" count="3" type="cond" truecount="4" falsecount="0"/>
-        <line num="39" count="2" type="stmt"/>
-        <line num="41" count="1" type="stmt"/>
-        <line num="42" count="1" type="stmt"/>
-        <line num="54" count="3" type="cond" truecount="2" falsecount="0"/>
-        <line num="55" count="2" type="stmt"/>
-        <line num="61" count="1" type="stmt"/>
-        <line num="64" count="1" type="stmt"/>
-        <line num="66" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="44" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="60" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="61" count="2" type="stmt"/>
         <line num="67" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
       </file>
       <file name="wpapi.module.ts" path="/Users/dhardy/Projects/npm/nestjs-wpapi/lib/wpapi.module.ts">
         <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
-        <line num="7" count="1" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-        <line num="16" count="3" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
       </file>
     </package>
     <package name="lib.common">

@@ -1,5 +1,5 @@
-[![npm version](http://img.shields.io/npm/v/@ntegral/nestjs-force.svg?style=flat)](https://npmjs.org/package/@ntegral/nestjs-wpapi "View this project on npm")
-[![Codecov Coverage](https://img.shields.io/codecov/c/github/ntegral/nestjs-jsforce/master.svg?style=flat-square)](https://codecov.io/gh/ntegral/nestjs-wpapi)
+[![npm version](http://img.shields.io/npm/v/@ntegral/nestjs-wpapi.svg?style=flat)](https://npmjs.org/package/@ntegral/nestjs-wpapi "View this project on npm")
+[![Codecov Coverage](https://img.shields.io/codecov/c/github/ntegral/nestjs-wpapi/master.svg?style=flat-square)](https://codecov.io/gh/ntegral/nestjs-wpapi)
 [![ISC license](http://img.shields.io/badge/license-ISC-brightgreen.svg)](http://opensource.org/licenses/ISC)
 
 

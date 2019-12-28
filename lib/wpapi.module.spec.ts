@@ -9,9 +9,9 @@ import { WPAPI_TOKEN } from './common';
 
 describe('WpApiModule', () => {
     let config: WpApiConfigOptions = {
-        endpoint: 'http://lvngbook.com/wp-json',
-        username: 'Dexter',
-        password: 'D3vC0n$ult!ng',
+        endpoint: 'http://wp.com/wp-json',
+        username: 'D****',
+        password: '*********',
         auth: true,
     };
 

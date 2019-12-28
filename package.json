@@ -9,7 +9,8 @@
   "name": "@ntegral/nestjs-wpapi",
   "version": "1.0.0",
   "description": "Provides an injectable wordpress client to provide features to the Wordpress API for nestjs projects",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
     "clean": "rm -rf dist",
